@@ -1,7 +1,7 @@
 ### Hola, I,m AIJAY RAMANUJAM !👋
 
-🌱 I’m currently learning Flutter.
-📫 How to reach me: Twitter - @AijayRamanujam.
+- 🌱 I’m currently learning Flutter.
+- 📫 How to reach me: Twitter - @AijayRamanujam.
 
 I,m stil new to this,so my project is simple but regardless Welcome to my github page.
 <!--
