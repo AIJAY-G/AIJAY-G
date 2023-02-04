@@ -1,6 +1,6 @@
 ### Hola, I,m AIJAY RAMANUJAM !👋
 # 💫 About Me:
-<br>- 🌱 I’m currently learning Flutter<br>- 📫 How to reach me:  <br>- ⚡ Fun fact:  I'm Lazy but Smart
+<br>- 🌱 I’m currently learning Flutter<br>- 📫 How to reach me: [Mail ID](aijayramanuajam1007@gmail.com) <br>- ⚡ Fun fact:  I'm Lazy but Smart
 
 
 ## 🌐 Socials:
