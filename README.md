@@ -1,6 +1,6 @@
 ### Hola, I,m AIJAY RAMANUJAM !👋
 # 💫 About Me:
-<br>- 🌱 I’m currently learning React<br>- 📫 How to reach me: aijayramanuajam1007@gmail.com <br>- ⚡ Fun fact:  I'm Lazy but Smart
+<br>- 🌱 I’m currently learning <B>Frontend development</B><br>- 📫 How to reach me: aijayramanuajam1007@gmail.com <br>- ⚡ Fun fact:  I'm Lazy but Smart
 
 
 ## 🌐 Socials:
