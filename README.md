@@ -19,8 +19,9 @@
 [![](https://gtce.itsvg.in/api?username=AijayRamanujam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 -->
 
+<!--
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AIJAY-G&icon=5&color=1)](https://visitcount.itsvg.in)
