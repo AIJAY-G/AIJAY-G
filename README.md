@@ -1,7 +1,4 @@
 ### Hola, I,m AIJAY RAMANUJAM !👋
-# 💫 About Me:
-<br>- 🌱 I’m currently learning <B>Frontend development</B><br>- 📫 How to reach me: aijayramanuajam1007@gmail.com <br>- ⚡ Fun fact:  I'm Lazy but Smart
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aijay__g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AijayRamanujam.G) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AijayRamanujam) 
